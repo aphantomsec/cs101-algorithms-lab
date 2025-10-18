@@ -22,7 +22,7 @@ For each:
 If Drive access exists, list up to 5 recently modified documents with shareable links and titles.
 
 #### C. Calendar Events
-If Calendar access exists, list up to 5 upcoming events this week with titles and times.
+If Calendar access exists, list up to 5 upcoming events this week with titles, times and links to google meet.
 
 ### 2. Confirmation
 End the note with:
